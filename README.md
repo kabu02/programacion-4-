@@ -1,4 +1,5 @@
 # programacion-4-
 proyecto 
 
-![fondo](https://user-images.githubusercontent.com/65877873/83207580-24179100-a119-11ea-9b1d-2b1bd4f59010.png)
+![screenshot](https://user-images.githubusercontent.com/65877873/83208412-35fa3380-a11b-11ea-8629-89fc14f3eb16.png)
+
